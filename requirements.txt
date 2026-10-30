@@ -1,0 +1,5 @@
+autogen-agentchat
+autogen-core
+autogen-exit[openai]
+streamlit
+python-dotenv
